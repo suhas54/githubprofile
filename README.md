@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔸I'm A passionate Software Engineer from India<br>🔸I'm looking to collaborate on open-source projects related to web development and Data Science <br>🔸I'm looking for help with enhancing the performance and security aspects of my projects<br>🔸I'm currently diving deep into the fascinating world of Artificial Intelligence (AI)<br>🔸Feel free to ask me about anything related to full-stack web development
+🔸I'm A passionate Software Engineer from India<br>🔸I'm looking to collaborate on open-source projects related to web development and Data Science<br>🔸I'm looking for help with enhancing the performance and security aspects of my projects<br>🔸I'm currently diving deep into the fascinating world of Artificial Intelligence (AI)<br>🔸Feel free to ask me about anything related to full-stack web development<br><br>
 
 
 ## 🌐 Socials:
